@@ -66,6 +66,7 @@ Dependency Build Instructions: Ubuntu & Debian
 Build requirements:
 
     sudo apt-get install build-essential libtool autotools-dev automake pkg-config libssl-dev libevent-dev bsdmainutils libleveldb-dev
+    chmod +x share/genbuild.sh
 
 Options when installing required Boost library files:
 
