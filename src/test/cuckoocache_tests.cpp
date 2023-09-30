@@ -8,6 +8,7 @@
 #include <thread>
 #include <boost/thread.hpp>
 
+#include <deque>
 
 /** Test Suite for CuckooCache
  *

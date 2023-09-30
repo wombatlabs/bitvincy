@@ -12,6 +12,10 @@
 #include "sync.h"
 #include "ui_interface.h"
 
+#include <deque>
+#include <array>
+#include <vector>
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
